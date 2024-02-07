@@ -44,12 +44,19 @@ The following website project uses Javascript, HTML, CSS to create a e-commerce 
 ### Designs 
 
 Main Page:
+
 [Artist_Ecommerce_1](https://github.com/Prashar-P/EcommerceWebsite/assets/140114811/f8546e5f-9a3f-4beb-abd3-d4fce2f44a70)
+
 Login Page:
+
 ![image](https://github.com/Prashar-P/EcommerceWebsite/assets/140114811/5c9d9bdd-e95f-4fd1-be54-698ded0bbebf)
+
 Artists Page:
+
 ![image](https://github.com/Prashar-P/EcommerceWebsite/assets/140114811/39f61891-e1ce-457e-ae8b-e0bcd512eac6)
+
 Responsive Designs:
+
 ![image](https://github.com/Prashar-P/EcommerceWebsite/assets/140114811/702b215f-ab2f-4512-a1a6-0cd7d881ce17)
 ![image](https://github.com/Prashar-P/EcommerceWebsite/assets/140114811/1e75f8f7-11af-47fa-b58f-0d60764a7930)
 
